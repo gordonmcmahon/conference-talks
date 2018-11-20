@@ -1,27 +1,27 @@
-h1. Mapping Team Maturity to Support Improvements
+# Mapping Team Maturity to Support Improvements
 
 
-h2. Abstract
+## Abstract
 
 I run coaching services for ~2000 developers at JPMorgan's Glasgow site. The biggest challenge we face is providing context-specific guidance to 300+ teams. This cannot be done effectively at scale on gut-feel or by following a rigid maturity model. So, building on Chris McDermott's Maturity Mapping paper and with Marc Burguer, we have been developing a workshop to help teams to map their own maturity. We use this to help them understand their current situation, and to focus on which areas of improvement will be of most value to them. Once equipped with this information, we can deliver much more targetted and specific coaching, and a mechanism for judging how that has affected the team's maturity, captured in their maps.
 
 
 
-h2. Talk 
+## Talk 
 
-h3. Context
+### Context
 
-h3. Story
+### Story
 
-h3. Technique
+### Technique
 
-h3. Application
+### Application
 
-h3. Future work and challenges
+### Future work and challenges
 
 
 
-h2. Bio
+# Bio
 
 Gordon McMahon is an agile software engineer and agile coach Glasgow, Scotland. He has been practicing XP & TDD since around 2002, 
 and is an active member of the local agile/lean software development community. 
