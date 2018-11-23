@@ -15,13 +15,20 @@ Jason Yip:
 
 "Using a maturity model to say one group is better than another is a classic example of ruining an informational metric by incentivizing it. My feeling that anyone doing an assessment should never publicize the current level outside of the group they are working with. " - Martin Fowler
 
+"Adrian Howard points out that maturity for a 30 person company is entirely different to that of a multinational."
+
+Marc Burgauer highlights “they also bias thinking towards the model, i.e. blindfold for context”. That is most maturity models encourage “gap thinking” which involves envisioning their view of an idealised future state and closing the gap. This, in turn, discourages options that might otherwise present themselves.
+
 Maturity Models:
 * Pre-scriptive
 * Lock-step
 * One-size-fits-all
+
 Maturity Maps:
 * Bespoke
 * Context-sensitive
+* Provides situational awareness to make better decisions
+* rather than a prescribed path 
 
 
 ## Story
